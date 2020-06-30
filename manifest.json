@@ -1,0 +1,25 @@
+{
+    "name": "Mason Lee 的小站",
+    "short_name": "Mason Lee",
+    "lang": "zh-CN",
+    "theme_color": "#747474",
+    "background_color": "#747474",
+    "icons": [{
+        "src": "https://liwmj.com/images/avatar.jpg",
+        "sizes": "900x900",
+        "type": "image/jpg"
+    },
+    {
+        "src": "https://liwmj.com/images/avatar_512x512.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"
+    },
+    {
+        "src": "https://liwmj.com/images/avatar_256x256.jpg",
+        "sizes": "256x256",
+        "type": "image/jpg"
+    }],
+    "start_url": "https://liwmj.com",
+    "display": "standalone",
+    "orientation": "portrait-primary"
+}
