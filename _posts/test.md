@@ -9,6 +9,9 @@ categories:
 tags:
     - js
     - html5
+toc: true
+mathjax: true
+sidebar: none # 是否启用sidebar侧边栏，none：不启用
 ---
 
 ### 测试页面

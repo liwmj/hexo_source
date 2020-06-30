@@ -1,7 +1,8 @@
 ---
-title: "关于我"
-date: 2017-01-20 00:00:00
-comments: true
+title: 关于
+description: 个人简介
+layout: about
+comments: false
+sidebar: custom
 ---
-
-## 个人简介
+个人详细介绍
