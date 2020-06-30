@@ -1,6 +1,6 @@
 ---
-title: 测试页面
-translate_title: test-
+title: 测试页面1
+translate_title: test-1
 date: 2014-02-12 08:55
 updated: 2014-08-08 09:55
 comments: true
@@ -10,13 +10,10 @@ categories:
 tags:
     - js
     - html5
-# toc: true
+toc: true
 mathjax: true
 # sidebar: none # 是否启用sidebar侧边栏，none：不启用
 ---
-
-测试测试测试测试测试测试测试测试测试测试测试
-<!-- more -->
 
 ### 测试页面
 
@@ -32,6 +29,7 @@ mathjax: true
 测试
 测试
 测试
+<!-- more -->
 测试
 测试
 测试
