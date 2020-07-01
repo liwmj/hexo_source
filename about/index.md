@@ -39,13 +39,13 @@ sidebar: custom
 
   devTools: [
     ['Vim', 'Visual Studio Code', 'Eclipse'],
-	['CMake', 'Make', 'Gdb', 'Gcc'],
+    ['CMake', 'Make', 'Gdb', 'Gcc'],
     ['Chrome DevTools', 'Fiddler'],
     ['Git', 'Svn'],
     ['Docker', 'Compose'],
     ['Nginx', 'Tomcat'],
     ['Redis', 'MongoDB', 'MariaDB'],
-	['Selenium', 'Appium', 'Postman']
-  ]  
+    ['Selenium', 'Appium', 'Postman']
+  ]
 }
 ```
