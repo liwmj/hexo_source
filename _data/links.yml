@@ -1,9 +1,17 @@
 # links
-创造狮:
-  link: http://chuangzaoshi.com/
-  avatar: /images/favatar/chuangzaoshi-logo.png
-  desc: 为创意工作者而设计
-腾讯设计导航:
-  link: http://idesign.qq.com/
-  avatar: /images/favatar/idesign-logo.png
-  desc: 网罗全网高逼格的设计站点 
+开源中国:
+  link: http://www.oschina.net/
+  avatar: /images/links_logo/osc-logo.png
+  desc: 中文开源技术交流社区
+简书:
+  link: http://www.jianshu.com/
+  avatar: /images/links_logo/jianshu-logo.png
+  desc: 创作你的创作
+看云:
+  link: https://www.kancloud.cn/
+  avatar: /images/links_logo/kancloud-logo.jpg
+  desc: 现代化文档写作、托管及数字出版
+晓时云:
+  link: http://www.60-00.com/
+  avatar: /images/links_logo/60-00-logo.jpg
+  desc: 域名注册、虚拟主机、VPS、云服务器、自动化建站
